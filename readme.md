@@ -1,5 +1,7 @@
 # Exemplo de calculadora usando o Python Lex Yacc
 
+## Não Esqueçam de dar uma estrela para esse repositorio
+
 ## Sobre este respositorio
 
 Este repositorio foi feito para a disciplina Analisadores Lexicos e Sintaticos (INF1022) da PUC-RIO com o intuito de dar aos alunos um exemplo da utilização da biblioteca de Analise Lexica e Sintatica que utiliza LaLR(1), este repositorio possui 3 arquivos principais:
